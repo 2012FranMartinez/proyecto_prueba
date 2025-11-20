@@ -3,3 +3,4 @@
 # Ejemplo:
 # requests>=2.31.0
 # pandas>=2.0.0
+# numpy>=1.25.0

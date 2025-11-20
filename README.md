@@ -1,6 +1,6 @@
 # Python Project Template
 
-Template para proyectos Python con configuración inicial automatizada.
+Esto es un proyecto sobre esxtracción de datos.
 
 ## Inicialización del Proyecto
 
