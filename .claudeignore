@@ -1,0 +1,39 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Carpeta personal
+no_subir/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dependencies
+node_modules/
+
+# Git
+.git/
+
+# IDE
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3

@@ -1,0 +1,5 @@
+# Dependencias del proyecto
+# Añade aquí las librerías que necesites
+# Ejemplo:
+# requests>=2.31.0
+# pandas>=2.0.0
